@@ -1,3 +1,3 @@
 <?php
-    echo "xin chao phong day";
+    echo "xin chao png day";
 ?>
