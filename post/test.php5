@@ -1,4 +1,4 @@
 <?php
-    echo "Hello git intellij";
+    echo "Hello git ntellij";
     echo "Error conflict";
 ?>
